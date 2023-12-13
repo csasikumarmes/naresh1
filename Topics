@@ -5,3 +5,6 @@ Maven
 Data Driven
 POM
 Junit
+TestNG
+Cucumber
+API Testing
